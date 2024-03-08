@@ -7,13 +7,7 @@
 
 Welcome to House Sales Analysis Project! This collaborative project was conducted by a group of 3 members as part of the Applied Statistics course (MATH/DA 220). The project aims to analyze house sale prices in King County between May 2014 and May 2015, leveraging statistical analyses, data visualization, and various regression techniques.
 
-## Table of Contents
-1. [Describing Data](#describing-data)
-2. [Inference](#inference)
-3. [Regression](#regression)
-4. [Limitations & Conclusions](#limitations-&-conclusions)
-5. [Reference](#reference)
-
+## Contents
 
 ### I. Describing Data
 

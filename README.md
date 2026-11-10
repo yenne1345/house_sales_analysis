@@ -1,7 +1,5 @@
 # House Sales Analysis Project
 
-A group project for Applied Statistics class on house sale prices in King County, Washington, from May 2014 to May 2015. It combines data exploration, hypothesis tests, and simple, multiple and logistic regression. It also uses a Random Forest to classify prices as low, medium or high.
-
 **Authors:** Yen Nguyen, Hoa Nguyen, Minh Le  
 **Date:** 12/17/2023
 
